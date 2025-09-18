@@ -8,17 +8,13 @@
 
 Olá, sou a Beatriz de Oliveira 
 
-Analista de Testes de Software, atuo na área de QA com o objetivo de garantir a qualidade de produtos e serviços, contribuindo para sucesso de projetos e a satisfação do cliente. 
-
-Sobre mim
-
 🎓 Formação: Técnico e Superior em Análise e Desenvolvimento de Sistemas
 
 📚 Especialização: Mentorias e cursos extras na área de QA
 
-🤝 Voluntariado: Participação em projeto social de desenvolvimento e testes de aplicações
+🤝 Voluntariado: Participação em projetos sociais de desenvolvimento e testes de aplicações
 
-Competências
+Competências:
 
 Testes de software: manuais e automatizados
 
@@ -35,6 +31,12 @@ Metodologias ágeis: Scrum | Kanban
       <a href="https://www.linkedin.com/in/beatriz-de-oliveira-ab571a229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </p>
+<img
+    align="right"
+    title="GIF"
+    width="160px"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg5M2Y2cXpiNGR3Y3B4aHVtZWJhZGRreG1hdnVkaWo1ZG1yZzAwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUji554QwdXwAuYkhP/giphy.gif">
+>
 
 ---
 
