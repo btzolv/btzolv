@@ -14,7 +14,17 @@ Olá, sou a Beatriz de Oliveira
 
 🤝 Voluntariado: Participação em projetos sociais de desenvolvimento e testes de aplicações
 
+
+
 Competências:
+
+<img
+    align="right"
+    title="GIF"
+    width="160px"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg5M2Y2cXpiNGR3Y3B4aHVtZWJhZGRreG1hdnVkaWo1ZG1yZzAwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUji554QwdXwAuYkhP/giphy.gif"
+/>
+
 
 Testes de software: manuais e automatizados
 
@@ -25,20 +35,15 @@ APIs: Postman | Insomnia
 Metodologias ágeis: Scrum | Kanban
 
 
+#
 
 <p align="left">
       <a href = "mailto:btzolv26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/beatriz-de-oliveira-ab571a229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </p>
-<img
-    align="right"
-    title="GIF"
-    width="160px"
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg5M2Y2cXpiNGR3Y3B4aHVtZWJhZGRreG1hdnVkaWo1ZG1yZzAwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUji554QwdXwAuYkhP/giphy.gif">
->
 
----
+#
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -115,7 +120,7 @@ Metodologias ágeis: Scrum | Kanban
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"
 />
 
-#
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btzolv/btzolv/output/github-contribution-grid-snake-dark.svg">
