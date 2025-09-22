@@ -6,6 +6,13 @@
 
 **`Analista de Testes / QA`**
 
+<img
+    align="right"
+    title="GIF"
+    width="160px"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg5M2Y2cXpiNGR3Y3B4aHVtZWJhZGRreG1hdnVkaWo1ZG1yZzAwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUji554QwdXwAuYkhP/giphy.gif"
+/>
+
 Olá, sou a Beatriz de Oliveira 
 
 🎓 Formação: Técnico e Superior em Análise e Desenvolvimento de Sistemas
@@ -14,25 +21,12 @@ Olá, sou a Beatriz de Oliveira
 
 🤝 Voluntariado: Participação em projetos sociais de desenvolvimento e testes de aplicações
 
+👩🏻‍💻 Tenho experiência em testes manuais e automatizados, abrangendo back-end e front-end.
+
+🕒 Metodologia ágil Scrum e Kanban
 
 
-Competências:
 
-<img
-    align="right"
-    title="GIF"
-    width="160px"
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg5M2Y2cXpiNGR3Y3B4aHVtZWJhZGRreG1hdnVkaWo1ZG1yZzAwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUji554QwdXwAuYkhP/giphy.gif"
-/>
-
-
-Testes de software: manuais e automatizados
-
-Automação: Cypress | Robot Framework | Python | JavaScript
-
-APIs: Postman | Insomnia
-
-Metodologias ágeis: Scrum | Kanban
 
 
 ---
@@ -113,14 +107,6 @@ Metodologias ágeis: Scrum | Kanban
     width="45px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
-/>
-<img
-    align="left"
-    alt="Docker"
-    title="Docker"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"
 />
 
 
