@@ -15,7 +15,7 @@
 
 Olá, sou a Beatriz de Oliveira 
 
-🎓 Formação: Técnico e Superior em Análise e Desenvolvimento de Sistemas
+🎓 Formação: Ensino Superior em Análise e Desenvolvimento de Sistemas
 
 📚 Especialização: Mentorias e cursos extras na área de QA
 
@@ -23,7 +23,7 @@ Olá, sou a Beatriz de Oliveira
 
 👩🏻‍💻 Tenho experiência em testes manuais e automatizados, abrangendo back-end e front-end.
 
-🕒 Metodologia ágil Scrum e Kanban
+🕒 Metodologia ágil Scrum
 
 
 
