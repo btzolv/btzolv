@@ -15,7 +15,9 @@
 
 Olá, sou a Beatriz de Oliveira 
 
-🎓 Formação: Ensino Superior em Análise e Desenvolvimento de Sistemas
+🎓 Formação concluída: Análise e Desenvolvimento de Sistemas
+
+🎓 Formação em andamento: Engenharia de Software
 
 📚 Especialização: Mentorias e cursos extras na área de QA
 
